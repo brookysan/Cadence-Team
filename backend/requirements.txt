@@ -1,0 +1,9 @@
+requests
+sqlalchemy
+tldextract
+fastapi
+uvicorn
+python-multipart
+pandas
+openpyxl
+python-dateutil
